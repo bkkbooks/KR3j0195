@@ -1,0 +1,232 @@
+canonical_identifier: bkk:krp/KR3j0195/bkk/v1/markers/1
+seq: 1
+markers:
+  front: []
+  body:
+  - {type: xml-element, offset: 3, content: '', id: KR3j0195_wiki_001-bkkxmlele1, name: p, role: open}
+  - {type: 'tls:seg', offset: 3, content: '', id: KR3j0195_wiki_001-3.s1}
+  - {type: punctuation, offset: 8, content: 。, id: KR3j0195_wiki_001-bkkpn1}
+  - {type: 'tls:seg', offset: 8, content: '', id: KR3j0195_wiki_001-3.s2}
+  - {type: substitution, offset: 8, original: 敎, replacement: 教, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3788}}
+  - {type: punctuation, offset: 14, content: 。, id: KR3j0195_wiki_001-bkkpn2}
+  - {type: 'tls:seg', offset: 14, content: '', id: KR3j0195_wiki_001-3.s3}
+  - {type: punctuation, offset: 20, content: 。, id: KR3j0195_wiki_001-bkkpn3}
+  - {type: 'tls:seg', offset: 20, content: '', id: KR3j0195_wiki_001-3.s4}
+  - {type: substitution, offset: 22, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 27, content: 。, id: KR3j0195_wiki_001-bkkpn4}
+  - {type: 'tls:seg', offset: 27, content: '', id: KR3j0195_wiki_001-3.s5}
+  - {type: punctuation, offset: 30, content: 。, id: KR3j0195_wiki_001-bkkpn5}
+  - {type: 'tls:seg', offset: 30, content: '', id: KR3j0195_wiki_001-3.s6}
+  - {type: punctuation, offset: 38, content: 。, id: KR3j0195_wiki_001-bkkpn6}
+  - {type: 'tls:seg', offset: 38, content: '', id: KR3j0195_wiki_001-3.s7}
+  - {type: punctuation, offset: 43, content: 。, id: KR3j0195_wiki_001-bkkpn7}
+  - {type: 'tls:seg', offset: 43, content: '', id: KR3j0195_wiki_001-3.s8}
+  - {type: punctuation, offset: 47, content: 。, id: KR3j0195_wiki_001-bkkpn8}
+  - {type: 'tls:seg', offset: 47, content: '', id: KR3j0195_wiki_001-3.s9}
+  - {type: punctuation, offset: 51, content: 。, id: KR3j0195_wiki_001-bkkpn9}
+  - {type: 'tls:seg', offset: 51, content: '', id: KR3j0195_wiki_001-3.s10}
+  - {type: substitution, offset: 51, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: substitution, offset: 52, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
+  - {type: punctuation, offset: 55, content: 。, id: KR3j0195_wiki_001-bkkpn10}
+  - {type: 'tls:seg', offset: 55, content: '', id: KR3j0195_wiki_001-3.s11}
+  - {type: punctuation, offset: 67, content: 。, id: KR3j0195_wiki_001-bkkpn11}
+  - {type: 'tls:seg', offset: 67, content: '', id: KR3j0195_wiki_001-3.s12}
+  - {type: punctuation, offset: 72, content: 。, id: KR3j0195_wiki_001-bkkpn12}
+  - {type: 'tls:seg', offset: 72, content: '', id: KR3j0195_wiki_001-3.s13}
+  - {type: punctuation, offset: 76, content: 。, id: KR3j0195_wiki_001-bkkpn13}
+  - {type: 'tls:seg', offset: 76, content: '', id: KR3j0195_wiki_001-3.s14}
+  - {type: punctuation, offset: 80, content: 。, id: KR3j0195_wiki_001-bkkpn14}
+  - {type: 'tls:seg', offset: 80, content: '', id: KR3j0195_wiki_001-3.s15}
+  - {type: punctuation, offset: 84, content: 。, id: KR3j0195_wiki_001-bkkpn15}
+  - {type: 'tls:seg', offset: 84, content: '', id: KR3j0195_wiki_001-3.s16}
+  - {type: punctuation, offset: 94, content: 。, id: KR3j0195_wiki_001-bkkpn16}
+  - {type: 'tls:seg', offset: 94, content: '', id: KR3j0195_wiki_001-3.s17}
+  - {type: punctuation, offset: 98, content: 。, id: KR3j0195_wiki_001-bkkpn17}
+  - {type: 'tls:seg', offset: 98, content: '', id: KR3j0195_wiki_001-3.s18}
+  - {type: punctuation, offset: 104, content: 。, id: KR3j0195_wiki_001-bkkpn18}
+  - {type: 'tls:seg', offset: 104, content: '', id: KR3j0195_wiki_001-3.s19}
+  - {type: substitution, offset: 107, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 109, content: 。, id: KR3j0195_wiki_001-bkkpn19}
+  - {type: 'tls:seg', offset: 109, content: '', id: KR3j0195_wiki_001-3.s20}
+  - {type: punctuation, offset: 113, content: 。, id: KR3j0195_wiki_001-bkkpn20}
+  - {type: 'tls:seg', offset: 113, content: '', id: KR3j0195_wiki_001-3.s21}
+  - {type: punctuation, offset: 117, content: 。, id: KR3j0195_wiki_001-bkkpn21}
+  - {type: 'tls:seg', offset: 117, content: '', id: KR3j0195_wiki_001-3.s22}
+  - {type: substitution, offset: 120, original: 尙, replacement: 尚, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3273}}
+  - {type: punctuation, offset: 122, content: 。, id: KR3j0195_wiki_001-bkkpn22}
+  - {type: 'tls:seg', offset: 122, content: '', id: KR3j0195_wiki_001-3.s23}
+  - {type: punctuation, offset: 128, content: 。, id: KR3j0195_wiki_001-bkkpn23}
+  - {type: 'tls:seg', offset: 128, content: '', id: KR3j0195_wiki_001-3.s24}
+  - {type: punctuation, offset: 135, content: 。, id: KR3j0195_wiki_001-bkkpn24}
+  - {type: 'tls:seg', offset: 135, content: '', id: KR3j0195_wiki_001-3.s25}
+  - {type: punctuation, offset: 139, content: 。, id: KR3j0195_wiki_001-bkkpn25}
+  - {type: 'tls:seg', offset: 139, content: '', id: KR3j0195_wiki_001-3.s26}
+  - {type: punctuation, offset: 142, content: 。, id: KR3j0195_wiki_001-bkkpn26}
+  - {type: 'tls:seg', offset: 142, content: '', id: KR3j0195_wiki_001-3.s27}
+  - {type: punctuation, offset: 146, content: 。, id: KR3j0195_wiki_001-bkkpn27}
+  - {type: 'tls:seg', offset: 146, content: '', id: KR3j0195_wiki_001-3.s28}
+  - {type: substitution, offset: 146, original: 秘, replacement: 祕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4452}}
+  - {type: punctuation, offset: 150, content: 。, id: KR3j0195_wiki_001-bkkpn28}
+  - {type: 'tls:seg', offset: 150, content: '', id: KR3j0195_wiki_001-3.s29}
+  - {type: punctuation, offset: 155, content: 。, id: KR3j0195_wiki_001-bkkpn29}
+  - {type: 'tls:seg', offset: 155, content: '', id: KR3j0195_wiki_001-3.s30}
+  - {type: punctuation, offset: 159, content: 。, id: KR3j0195_wiki_001-bkkpn30}
+  - {type: 'tls:seg', offset: 159, content: '', id: KR3j0195_wiki_001-3.s31}
+  - {type: punctuation, offset: 167, content: 。, id: KR3j0195_wiki_001-bkkpn31}
+  - {type: 'tls:seg', offset: 167, content: '', id: KR3j0195_wiki_001-3.s32}
+  - {type: punctuation, offset: 173, content: 。, id: KR3j0195_wiki_001-bkkpn32}
+  - {type: 'tls:seg', offset: 173, content: '', id: KR3j0195_wiki_001-3.s33}
+  - {type: punctuation, offset: 183, content: 。, id: KR3j0195_wiki_001-bkkpn33}
+  - {type: 'tls:seg', offset: 183, content: '', id: KR3j0195_wiki_001-3.s34}
+  - {type: punctuation, offset: 187, content: 。, id: KR3j0195_wiki_001-bkkpn34}
+  - {type: 'tls:seg', offset: 187, content: '', id: KR3j0195_wiki_001-3.s35}
+  - {type: punctuation, offset: 194, content: 。, id: KR3j0195_wiki_001-bkkpn35}
+  - {type: 'tls:seg', offset: 194, content: '', id: KR3j0195_wiki_001-3.s36}
+  - {type: punctuation, offset: 204, content: 。, id: KR3j0195_wiki_001-bkkpn36}
+  - {type: 'tls:seg', offset: 204, content: '', id: KR3j0195_wiki_001-3.s37}
+  - {type: punctuation, offset: 210, content: 。, id: KR3j0195_wiki_001-bkkpn37}
+  - {type: 'tls:seg', offset: 210, content: '', id: KR3j0195_wiki_001-3.s38}
+  - {type: punctuation, offset: 216, content: 。, id: KR3j0195_wiki_001-bkkpn38}
+  - {type: 'tls:seg', offset: 216, content: '', id: KR3j0195_wiki_001-3.s39}
+  - {type: punctuation, offset: 221, content: 。, id: KR3j0195_wiki_001-bkkpn39}
+  - {type: 'tls:seg', offset: 221, content: '', id: KR3j0195_wiki_001-3.s40}
+  - {type: punctuation, offset: 225, content: 。, id: KR3j0195_wiki_001-bkkpn40}
+  - {type: 'tls:seg', offset: 225, content: '', id: KR3j0195_wiki_001-3.s41}
+  - {type: punctuation, offset: 230, content: 。, id: KR3j0195_wiki_001-bkkpn41}
+  - {type: 'tls:seg', offset: 230, content: '', id: KR3j0195_wiki_001-3.s42}
+  - {type: punctuation, offset: 236, content: 。, id: KR3j0195_wiki_001-bkkpn42}
+  - {type: 'tls:seg', offset: 236, content: '', id: KR3j0195_wiki_001-3.s43}
+  - {type: punctuation, offset: 239, content: 。, id: KR3j0195_wiki_001-bkkpn43}
+  - {type: 'tls:seg', offset: 239, content: '', id: KR3j0195_wiki_001-3.s44}
+  - {type: punctuation, offset: 244, content: 。, id: KR3j0195_wiki_001-bkkpn44}
+  - {type: 'tls:seg', offset: 244, content: '', id: KR3j0195_wiki_001-3.s45}
+  - {type: punctuation, offset: 248, content: 。, id: KR3j0195_wiki_001-bkkpn45}
+  - {type: 'tls:seg', offset: 248, content: '', id: KR3j0195_wiki_001-3.s46}
+  - {type: punctuation, offset: 259, content: 。, id: KR3j0195_wiki_001-bkkpn46}
+  - {type: 'tls:seg', offset: 259, content: '', id: KR3j0195_wiki_001-3.s47}
+  - {type: punctuation, offset: 267, content: 。, id: KR3j0195_wiki_001-bkkpn47}
+  - {type: 'tls:seg', offset: 267, content: '', id: KR3j0195_wiki_001-3.s48}
+  - {type: punctuation, offset: 271, content: 。, id: KR3j0195_wiki_001-bkkpn48}
+  - {type: 'tls:seg', offset: 271, content: '', id: KR3j0195_wiki_001-3.s49}
+  - {type: punctuation, offset: 278, content: 。, id: KR3j0195_wiki_001-bkkpn49}
+  - {type: 'tls:seg', offset: 278, content: '', id: KR3j0195_wiki_001-3.s50}
+  - {type: punctuation, offset: 282, content: 。, id: KR3j0195_wiki_001-bkkpn50}
+  - {type: 'tls:seg', offset: 282, content: '', id: KR3j0195_wiki_001-3.s51}
+  - {type: punctuation, offset: 286, content: 。, id: KR3j0195_wiki_001-bkkpn51}
+  - {type: 'tls:seg', offset: 286, content: '', id: KR3j0195_wiki_001-3.s52}
+  - {type: punctuation, offset: 289, content: 。, id: KR3j0195_wiki_001-bkkpn52}
+  - {type: 'tls:seg', offset: 289, content: '', id: KR3j0195_wiki_001-3.s53}
+  - {type: punctuation, offset: 293, content: 。, id: KR3j0195_wiki_001-bkkpn53}
+  - {type: 'tls:seg', offset: 293, content: '', id: KR3j0195_wiki_001-3.s54}
+  - {type: punctuation, offset: 297, content: 。, id: KR3j0195_wiki_001-bkkpn54}
+  - {type: 'tls:seg', offset: 297, content: '', id: KR3j0195_wiki_001-3.s55}
+  - {type: punctuation, offset: 301, content: 。, id: KR3j0195_wiki_001-bkkpn55}
+  - {type: 'tls:seg', offset: 301, content: '', id: KR3j0195_wiki_001-3.s56}
+  - {type: punctuation, offset: 309, content: 。, id: KR3j0195_wiki_001-bkkpn56}
+  - {type: 'tls:seg', offset: 309, content: '', id: KR3j0195_wiki_001-3.s57}
+  - {type: punctuation, offset: 313, content: 。, id: KR3j0195_wiki_001-bkkpn57}
+  - {type: 'tls:seg', offset: 313, content: '', id: KR3j0195_wiki_001-3.s58}
+  - {type: punctuation, offset: 319, content: 。, id: KR3j0195_wiki_001-bkkpn58}
+  - {type: 'tls:seg', offset: 319, content: '', id: KR3j0195_wiki_001-3.s59}
+  - {type: punctuation, offset: 330, content: 。, id: KR3j0195_wiki_001-bkkpn59}
+  - {type: 'tls:seg', offset: 330, content: '', id: KR3j0195_wiki_001-3.s60}
+  - {type: punctuation, offset: 334, content: 。, id: KR3j0195_wiki_001-bkkpn60}
+  - {type: 'tls:seg', offset: 334, content: '', id: KR3j0195_wiki_001-3.s61}
+  - {type: punctuation, offset: 338, content: 。, id: KR3j0195_wiki_001-bkkpn61}
+  - {type: 'tls:seg', offset: 338, content: '', id: KR3j0195_wiki_001-3.s62}
+  - {type: punctuation, offset: 344, content: 。, id: KR3j0195_wiki_001-bkkpn62}
+  - {type: 'tls:seg', offset: 344, content: '', id: KR3j0195_wiki_001-3.s63}
+  - {type: punctuation, offset: 351, content: 。, id: KR3j0195_wiki_001-bkkpn63}
+  - {type: 'tls:seg', offset: 351, content: '', id: KR3j0195_wiki_001-3.s64}
+  - {type: punctuation, offset: 355, content: 。, id: KR3j0195_wiki_001-bkkpn64}
+  - {type: 'tls:seg', offset: 355, content: '', id: KR3j0195_wiki_001-3.s65}
+  - {type: punctuation, offset: 359, content: 。, id: KR3j0195_wiki_001-bkkpn65}
+  - {type: 'tls:seg', offset: 359, content: '', id: KR3j0195_wiki_001-3.s66}
+  - {type: punctuation, offset: 363, content: 。, id: KR3j0195_wiki_001-bkkpn66}
+  - {type: 'tls:seg', offset: 363, content: '', id: KR3j0195_wiki_001-3.s67}
+  - {type: punctuation, offset: 367, content: 。, id: KR3j0195_wiki_001-bkkpn67}
+  - {type: 'tls:seg', offset: 367, content: '', id: KR3j0195_wiki_001-3.s68}
+  - {type: punctuation, offset: 371, content: 。, id: KR3j0195_wiki_001-bkkpn68}
+  - {type: 'tls:seg-start', offset: 371, content: '', id: KR3j0195_wiki_001-3.s69, seg_type: root, member_ids: [KR3j0195_wiki_001-3.s69]}
+  - {type: 'tls:seg', offset: 371, content: '', id: KR3j0195_wiki_001-3.s69}
+  - {type: punctuation, offset: 377, content: 。, id: KR3j0195_wiki_001-bkkpn69}
+  - {type: 'tls:seg-end', offset: 377, content: '', id: KR3j0195_wiki_001-3.s69_end, seg_type: root}
+  - {type: 'tls:seg', offset: 377, content: '', id: KR3j0195_wiki_001-3.s70}
+  - {type: punctuation, offset: 389, content: 。, id: KR3j0195_wiki_001-bkkpn70}
+  - {type: 'tls:seg', offset: 389, content: '', id: KR3j0195_wiki_001-3.s71}
+  - {type: punctuation, offset: 395, content: 。, id: KR3j0195_wiki_001-bkkpn71}
+  - {type: 'tls:seg', offset: 395, content: '', id: KR3j0195_wiki_001-3.s72}
+  - {type: punctuation, offset: 401, content: 。, id: KR3j0195_wiki_001-bkkpn72}
+  - {type: 'tls:seg', offset: 401, content: '', id: KR3j0195_wiki_001-3.s73}
+  - {type: punctuation, offset: 407, content: 。, id: KR3j0195_wiki_001-bkkpn73}
+  - {type: 'tls:seg', offset: 407, content: '', id: KR3j0195_wiki_001-3.s74}
+  - {type: punctuation, offset: 413, content: 。, id: KR3j0195_wiki_001-bkkpn74}
+  - {type: 'tls:seg', offset: 413, content: '', id: KR3j0195_wiki_001-3.s75}
+  - {type: punctuation, offset: 421, content: 。, id: KR3j0195_wiki_001-bkkpn75}
+  - {type: 'tls:seg', offset: 421, content: '', id: KR3j0195_wiki_001-3.s76}
+  - {type: punctuation, offset: 432, content: 。, id: KR3j0195_wiki_001-bkkpn76}
+  - {type: 'tls:seg', offset: 432, content: '', id: KR3j0195_wiki_001-3.s77}
+  - {type: punctuation, offset: 438, content: 。, id: KR3j0195_wiki_001-bkkpn77}
+  - {type: 'tls:seg', offset: 438, content: '', id: KR3j0195_wiki_001-3.s78}
+  - {type: punctuation, offset: 443, content: 。, id: KR3j0195_wiki_001-bkkpn78}
+  - {type: 'tls:seg', offset: 443, content: '', id: KR3j0195_wiki_001-3.s79}
+  - {type: punctuation, offset: 447, content: 。, id: KR3j0195_wiki_001-bkkpn79}
+  - {type: 'tls:seg', offset: 447, content: '', id: KR3j0195_wiki_001-3.s80}
+  - {type: punctuation, offset: 451, content: 。, id: KR3j0195_wiki_001-bkkpn80}
+  - {type: 'tls:seg', offset: 451, content: '', id: KR3j0195_wiki_001-3.s81}
+  - {type: punctuation, offset: 458, content: 。, id: KR3j0195_wiki_001-bkkpn81}
+  - {type: 'tls:seg', offset: 458, content: '', id: KR3j0195_wiki_001-3.s82}
+  - {type: substitution, offset: 460, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 466, content: 。, id: KR3j0195_wiki_001-bkkpn82}
+  - {type: 'tls:seg', offset: 466, content: '', id: KR3j0195_wiki_001-3.s83}
+  - {type: punctuation, offset: 473, content: 。, id: KR3j0195_wiki_001-bkkpn83}
+  - {type: 'tls:seg', offset: 473, content: '', id: KR3j0195_wiki_001-3.s84}
+  - {type: punctuation, offset: 486, content: 。, id: KR3j0195_wiki_001-bkkpn84}
+  - {type: 'tls:seg', offset: 486, content: '', id: KR3j0195_wiki_001-3.s85}
+  - {type: punctuation, offset: 499, content: 。, id: KR3j0195_wiki_001-bkkpn85}
+  - {type: 'tls:seg', offset: 499, content: '', id: KR3j0195_wiki_001-3.s86}
+  - {type: punctuation, offset: 505, content: 。, id: KR3j0195_wiki_001-bkkpn86}
+  - {type: 'tls:seg', offset: 505, content: '', id: KR3j0195_wiki_001-3.s87}
+  - {type: punctuation, offset: 515, content: 。, id: KR3j0195_wiki_001-bkkpn87}
+  - {type: 'tls:seg', offset: 515, content: '', id: KR3j0195_wiki_001-3.s88}
+  - {type: punctuation, offset: 519, content: 。, id: KR3j0195_wiki_001-bkkpn88}
+  - {type: 'tls:seg-start', offset: 519, content: '', id: KR3j0195_wiki_001-3.s89, seg_type: root, member_ids: [KR3j0195_wiki_001-3.s89]}
+  - {type: 'tls:seg', offset: 519, content: '', id: KR3j0195_wiki_001-3.s89}
+  - {type: punctuation, offset: 529, content: 。, id: KR3j0195_wiki_001-bkkpn89}
+  - {type: 'tls:seg-end', offset: 529, content: '', id: KR3j0195_wiki_001-3.s89_end, seg_type: root}
+  - {type: 'tls:seg', offset: 529, content: '', id: KR3j0195_wiki_001-3.s90}
+  - {type: punctuation, offset: 538, content: 。, id: KR3j0195_wiki_001-bkkpn90}
+  - {type: 'tls:seg', offset: 538, content: '', id: KR3j0195_wiki_001-3.s91}
+  - {type: punctuation, offset: 544, content: 。, id: KR3j0195_wiki_001-bkkpn91}
+  - {type: 'tls:seg', offset: 544, content: '', id: KR3j0195_wiki_001-3.s92}
+  - {type: punctuation, offset: 550, content: 。, id: KR3j0195_wiki_001-bkkpn92}
+  - {type: 'tls:seg', offset: 550, content: '', id: KR3j0195_wiki_001-3.s93}
+  - {type: punctuation, offset: 554, content: 。, id: KR3j0195_wiki_001-bkkpn93}
+  - {type: 'tls:seg', offset: 554, content: '', id: KR3j0195_wiki_001-3.s94}
+  - {type: punctuation, offset: 558, content: 。, id: KR3j0195_wiki_001-bkkpn94}
+  - {type: 'tls:seg', offset: 558, content: '', id: KR3j0195_wiki_001-3.s95}
+  - {type: substitution, offset: 559, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: punctuation, offset: 565, content: 。, id: KR3j0195_wiki_001-bkkpn95}
+  - {type: 'tls:seg', offset: 565, content: '', id: KR3j0195_wiki_001-3.s96}
+  - {type: punctuation, offset: 571, content: 。, id: KR3j0195_wiki_001-bkkpn96}
+  - {type: 'tls:seg', offset: 571, content: '', id: KR3j0195_wiki_001-3.s97}
+  - {type: punctuation, offset: 576, content: 。, id: KR3j0195_wiki_001-bkkpn97}
+  - {type: 'tls:seg', offset: 576, content: '', id: KR3j0195_wiki_001-3.s98}
+  - {type: punctuation, offset: 580, content: 。, id: KR3j0195_wiki_001-bkkpn98}
+  - {type: 'tls:seg', offset: 580, content: '', id: KR3j0195_wiki_001-3.s99}
+  - {type: punctuation, offset: 584, content: 。, id: KR3j0195_wiki_001-bkkpn99}
+  - {type: 'tls:seg', offset: 584, content: '', id: KR3j0195_wiki_001-3.s100}
+  - {type: punctuation, offset: 592, content: 。, id: KR3j0195_wiki_001-bkkpn100}
+  - {type: 'tls:seg', offset: 592, content: '', id: KR3j0195_wiki_001-3.s101}
+  - {type: punctuation, offset: 600, content: 。, id: KR3j0195_wiki_001-bkkpn101}
+  - {type: 'tls:seg', offset: 600, content: '', id: KR3j0195_wiki_001-3.s102}
+  - {type: punctuation, offset: 606, content: 。, id: KR3j0195_wiki_001-bkkpn102}
+  - {type: 'tls:seg', offset: 606, content: '', id: KR3j0195_wiki_001-3.s103}
+  - {type: punctuation, offset: 614, content: 。, id: KR3j0195_wiki_001-bkkpn103}
+  - {type: 'tls:seg', offset: 614, content: '', id: KR3j0195_wiki_001-3.s104}
+  - {type: punctuation, offset: 623, content: 。, id: KR3j0195_wiki_001-bkkpn104}
+  - {type: 'tls:seg', offset: 623, content: '', id: KR3j0195_wiki_001-3.s105}
+  - {type: punctuation, offset: 625, content: 。, id: KR3j0195_wiki_001-bkkpn105}
+  - {type: xml-element, offset: 625, content: '', id: KR3j0195_wiki_001-bkkxmlele2, name: p, role: close}
+  back: []
+hash: sha256:5180f8eb71035619570228377139c9e0c8e3896d2a2d649bee0efa9e7dda9912
