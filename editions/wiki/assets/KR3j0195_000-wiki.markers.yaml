@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR3j0195/wiki/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: xml-element, offset: 2, content: '', id: KR3j0195_wiki_000-bkkxmlele1, name: p, role: open}
   - {type: 'tls:seg', offset: 2, content: '', id: KR3j0195_wiki_000-2.s1}
   - {type: punctuation, offset: 6, content: 。, id: KR3j0195_wiki_000-bkkpn1}
@@ -170,6 +170,5 @@ markers:
   - {type: 'tls:seg', offset: 478, content: '', id: KR3j0195_wiki_000-2.s83}
   - {type: punctuation, offset: 489, content: 。, id: KR3j0195_wiki_000-bkkpn83}
   - {type: xml-element, offset: 489, content: '', id: KR3j0195_wiki_000-bkkxmlele2, name: p, role: close}
-  body: []
   back: []
-hash: sha256:d566797048787f50b2ccce930fe38efcb7460002c7f061ebc6416848becb9c5c
+hash: sha256:12ec2787de93e80e659dcb696eff0c4fd7e684677548d627988c75ebecdbe1f2

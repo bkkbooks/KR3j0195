@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR3j0195/bkk/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: substitution, offset: 0, original: 幷, replacement: 並, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20385}}
   - {type: xml-element, offset: 2, content: '', id: KR3j0195_wiki_000-bkkxmlele1, name: p, role: open}
   - {type: 'tls:seg', offset: 2, content: '', id: KR3j0195_wiki_000-2.s1}
@@ -194,6 +194,5 @@ markers:
   - {type: substitution, offset: 483, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 489, content: 。, id: KR3j0195_wiki_000-bkkpn83}
   - {type: xml-element, offset: 489, content: '', id: KR3j0195_wiki_000-bkkxmlele2, name: p, role: close}
-  body: []
   back: []
-hash: sha256:b10f5bb7a29df001998ff5584bd689832fc1f1a5bef8915c3a760a19ccbb9cc1
+hash: sha256:55bd1eb0ce11c8f837be1f0f425e1dece9c5a0acf868698ef632011cb4373818
